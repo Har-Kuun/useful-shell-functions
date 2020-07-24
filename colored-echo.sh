@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Created by Har-Kuun @ https://qing.su
 #This function behaves like a colored "echo."
 #Usage: 
 #say hello yellow blue ##hello in yellow color with blue background
